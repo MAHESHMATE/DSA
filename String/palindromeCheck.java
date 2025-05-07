@@ -50,7 +50,7 @@ Space Complexity: O(N), Stack and ans variable
 
 //OPTOMIZED APPROACH
 
-/* 
+
 import java.io.*;
 
 class palindromeCheck {
@@ -96,7 +96,7 @@ class palindromeCheck {
         System.out.println(result(s));
     }
 }
-
+/*
 Time Complexity: O(N), N~length of string
 Space Complexity: O(1), Constant Space
 */
